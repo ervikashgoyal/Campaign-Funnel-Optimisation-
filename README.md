@@ -26,8 +26,11 @@
 
 
 **Project Overview**
+
 Objective
-The primary goal of this analytics-enabled marketing project is to develop a strategy that predicts the most probable buyers among approximately 90% of loyalty program participants. The objective is to optimize profitability and market penetration for ABC Supermarket.
+
+
+**The primary goal of this analytics-enabled marketing project is to develop a strategy that predicts the most probable buyers among approximately 90% of loyalty program participants. The objective is to optimize profitability and market penetration for ABC Supermarket.**
 
 Key Metrics
 
@@ -41,7 +44,10 @@ Cost of promotional sample kit: ₹4,420**
 **Data Preprocessing
 Imputed missing values using mode/mean.
 Utilized label encoding for categorical variables.**
-Model Selection
+
+
+**Model Selection**
+
 Trained a classification model using a Logistic Regression Classifier to predict the probability of buying/not buying.
 
 Model Accuracy
@@ -62,7 +68,9 @@ Profit Maximization:
 
 **Top 40%: ₹196 Mn profit, reaching 44% of participants
 Top 30%: ₹214 Mn profit, reaching 51% of participants**
-Market Penetration:
+
+
+**Market Penetration:**
 
 All 100%: ₹176 Mn profit, covering the entire participant base
 No Model Scenario:
