@@ -3,6 +3,8 @@
 ![image](https://github.com/ervikashgoyal/Campaign-Funnel-Optimisation-/assets/115889341/134bf8ef-d501-4195-9eaf-d93b148a8917)
 
 **How much revenue do loyalty programs increase sales?**
+
+
 How do you calculate ROI for loyalty programs?
 How do you calculate the cost of a loyalty program?
 How much revenue comes from loyal customers?
